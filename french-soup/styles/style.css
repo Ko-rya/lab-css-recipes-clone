@@ -20,19 +20,22 @@ header {
   justify-content: center;
   color: white;
   font-size: 45px;
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
   text-align: center;
   font-weight: 400;
 }
 section {
   margin: 15px 0;
-  padding: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: rgb(87, 87, 87)
 }
 
 h2 {
   font-size: 22px;
   margin-top: 0;
+  margin-bottom: 10px;
 }
 .ingredients, .how-to {
   border-top: 1px solid #ccc;
